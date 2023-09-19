@@ -1,1 +1,1 @@
-# animeweb.github.io
+# animeweb
